@@ -1,0 +1,8 @@
+.efectosubir{   
+    transition: all 600ms;     
+}
+
+.efectosubir:hover{
+    transform: translateY(-7px);
+    transition: all 600ms;    
+}
