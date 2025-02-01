@@ -19,4 +19,4 @@ Descrgue e inicialice la BD
 
 ![Inicio de plataforma](./public/app-1.png){width=1280 height=480}
 
-![Perfil Docente](./public/app-1.png){width=1280 height=480}
+![Perfil Docente](./public/app-2.png){width=1280 height=480}
